@@ -22,11 +22,7 @@ PetCare Mini Skill is a lightweight static website that helps pet owners create 
 
 ## Demo
 
-Online demo, after GitHub Pages is enabled:
-
-```text
-https://ezekielgarden-arch.github.io/petcare-mini-skill/
-```
+Online demo: [https://ezekielgarden-arch.github.io/petcare-mini-skill/](https://ezekielgarden-arch.github.io/petcare-mini-skill/)
 
 Local demo:
 
