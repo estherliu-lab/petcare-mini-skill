@@ -2,7 +2,7 @@
 
 [English](README.md) | [中文](README.zh-CN.md) | [日本語](README.ja.md)
 
-<p align="center">
+<p align="left">
   <a href="https://estherliu-lab.github.io/petcare-mini-skill/">
     <img src="https://api.qrserver.com/v1/create-qr-code/?size=160x160&data=https%3A%2F%2Festherliu-lab.github.io%2Fpetcare-mini-skill%2F" alt="PetCare Mini Skill を開くQRコード" width="160" height="160">
   </a>
